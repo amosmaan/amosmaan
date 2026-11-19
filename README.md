@@ -49,13 +49,15 @@ if __name__ == "__main__":
 ### 🧰 Tech stack
 
 **Comfortable with:** SQL (window functions, CTEs, Athena / Redshift) · QuickSight · Excel · dashboard design
+
 **Learning now:** Python · pandas · NumPy · Git
+
 **Up next:** dbt · Docker · AWS Glue / S3 / Lambda · Spark · Kinesis
 
 ---
 
 ### 💼 Experience
-** Data Analyst Degree Apprentice @ Amazon (Data & BI)**, 2024 – present
+**Data Analyst Degree Apprentice @ Amazon (Data & BI)** 2024 – present:
 Building dashboards, automating manual reporting processes and developing internal workflow apps, alongside a degree in data analysis.
 
 ---
